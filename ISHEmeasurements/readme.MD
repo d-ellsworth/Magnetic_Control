@@ -1,0 +1,1 @@
+Programs which use the Keithly 2182a nanovoltmeter to read inverse spin Hall effect voltages. Primarily used for spin Seebeck and photo-spin-voltaic effect measurements. Also some misc programs associated with these measurements.
